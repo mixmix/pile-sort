@@ -1,0 +1,28 @@
+{
+  "name": "pile-sort",
+  "version": "0.0.1",
+  "description": "sort an array into different piles based on some filtering functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape '**/*.test.js' | tap-spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mixmix/pile-sort.git"
+  },
+  "keywords": [
+    "array",
+    "sort",
+    "split"
+  ],
+  "author": "mixmix",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/mixmix/pile-sort/issues"
+  },
+  "homepage": "https://github.com/mixmix/pile-sort#readme",
+  "devDependencies": {
+    "tap-spec": "^5.0.0",
+    "tape": "^4.13.0"
+  }
+}
