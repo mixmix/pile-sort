@@ -1,6 +1,6 @@
 {
   "name": "pile-sort",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "sort an array into different piles based on some filtering functions",
   "main": "index.js",
   "scripts": {
